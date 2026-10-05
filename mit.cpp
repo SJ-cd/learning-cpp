@@ -1,3 +1,4 @@
+// A simple code to learn if else via Pass/Fail result code.
 #include <iostream>
 #include <string>
 using namespace std;
